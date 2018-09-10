@@ -119,5 +119,3 @@ function updateMetadata(sample){
 //initialize
 optionChanged("BB_940");
 
-
-searchbtn$clearinput.com
