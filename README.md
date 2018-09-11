@@ -16,8 +16,10 @@ An interactive dashboard of belly-button microbes found on a voluntered sample o
 
 
 ## Screenshot
-![](pic1.png)
-![](pic2.png)
+  
+  ![](pic1.png)
+  ![](pic2.png)
+
 
 ## Data Source
 [Rob Dunn Lab](http://robdunnlab.com/projects/belly-button-biodiversity/ "Rob Dunn Lab")
