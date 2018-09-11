@@ -2,7 +2,7 @@
 
 
 ## Summary
-An interactive dashboard of belly-button microbes found on a voluntered sample of human bodies. Data is served from a Python Flask application and displayed dynamically with the aid of D3 and HTML.
+An interactive dashboard of belly-button microbes found on a voluntered sample of human bodies. Data is served from a Python Flask application and displayed dynamically with the aid of Plotly and HTML.
 
 ## Getting Started
 
@@ -10,7 +10,7 @@ An interactive dashboard of belly-button microbes found on a voluntered sample o
 * Python 3.x.x 
 * Flask 0.12.3
 * HTML5
-* D3.js
+* Javascript
 * Heroku
 
 
