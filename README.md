@@ -17,8 +17,9 @@ An interactive dashboard of belly-button microbes found on a voluntered sample o
 
 ## Screenshot
   
-  ![](pic1.png)
-  ![](pic2.png)
+  
+ ![](pic1.PNG)
+ ![](pic2.PNG)
 
 
 ## Data Source
